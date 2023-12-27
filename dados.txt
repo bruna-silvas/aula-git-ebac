@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Bruna
+-Profissão: Estagiaria de Testes
+-Cidade: Osasco/SP
+-O que faz nas horas vaga: estudo, pratico esportes, assisto filmes e séries.
+-Feedback sobre o curso Qualidade de Software: Até o momento tive boas experiências com o curso. Os conteúdos são claros, o professor qualificado, e os materiais são bastante úteis. Aprendi técnicas  que já estou praticando no meu trabalho.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma de estudo é intuitiva e fácil de usar. A navegação é simples, e o acesso aos materiais do curso é rápido.
 
 Obrigado!!!
 
